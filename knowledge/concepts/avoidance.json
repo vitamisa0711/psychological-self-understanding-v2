@@ -1,0 +1,94 @@
+{
+  "concept_id": "avoidance",
+  "name_vi": "Né tránh",
+  "name_en": "Avoidance",
+  "domain": "behavior",
+  "subcategory": "coping",
+  "definition": "Hành vi hoặc chiến lược nhằm giảm tiếp xúc với cảm xúc, suy nghĩ, hoặc tình huống bị đánh giá là khó chịu hoặc đe dọa.",
+  "mechanism": [
+    "Giảm khó chịu ngắn hạn",
+    "Ngăn trải nghiệm hiệu quả và học thích nghi dài hạn"
+  ],
+  "common_triggers": [
+    "Xung đột",
+    "Đánh giá",
+    "Cảm xúc khó chịu"
+  ],
+  "associated_thoughts": [
+    "Không đối mặt thì sẽ đỡ hơn",
+    "Mình không chịu nổi"
+  ],
+  "associated_emotions": [
+    "lo âu",
+    "sợ"
+  ],
+  "associated_behaviors": [
+    "Trì hoãn",
+    "Hủy hẹn",
+    "Chuyển chủ đề",
+    "Dùng chất/hoạt động phân tán"
+  ],
+  "maintaining_factors": [
+    "Giảm lo âu tức thì củng cố né tránh"
+  ],
+  "protective_factors": [
+    "Tiếp cận dần",
+    "Kỹ năng giải quyết vấn đề"
+  ],
+  "related_concepts": [
+    "conflict-avoidance",
+    "emotion-regulation",
+    "fear-of-abandonment"
+  ],
+  "alternative_explanations": [
+    "Ưu tiên an toàn hợp lý",
+    "Ranh giới lành mạnh",
+    "Mệt mỏi tạm thời"
+  ],
+  "misconceptions": [
+    "Mọi sự né = rối loạn lo âu",
+    "Tránh xung đột luôn không lành mạnh"
+  ],
+  "limitations": [
+    "Né tránh có thể thích nghi trong ngắn hạn; vấn đề khi trở thành pattern cứng nhắc"
+  ],
+  "evidence_strength": "MODERATE",
+  "clinical_or_nonclinical": "NON_CLINICAL",
+  "when_not_to_infer": [
+    "Né một lần vì lý do thực tế",
+    "Đang đặt ranh giới lành mạnh",
+    "Thiếu dữ liệu tần suất",
+    "Không suy ra rối loạn lo âu"
+  ],
+  "evidence": [
+    {
+      "evidence_id": "ev-av-001",
+      "claim": "Né tránh có thể duy trì lo âu bằng cách ngăn trải nghiệm hiệu quả.",
+      "evidence_strength": "MODERATE",
+      "source_ids": [
+        "src-beck-1979"
+      ],
+      "limitations": [
+        "Nguyên lý CBT chung; cần ngữ cảnh cá nhân"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-beck-1979",
+      "title": "Cognitive Therapy of Depression",
+      "authors": [
+        "Aaron T. Beck",
+        "A. John Rush",
+        "Brian F. Shaw",
+        "Gary Emery"
+      ],
+      "year": 1979,
+      "source_type": "TEXTBOOK",
+      "publisher": "Guilford Press"
+    }
+  ],
+  "status": "VERIFIED",
+  "version": "1.0.0",
+  "last_reviewed": "2026-09-15"
+}

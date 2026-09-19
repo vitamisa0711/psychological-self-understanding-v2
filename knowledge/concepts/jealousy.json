@@ -1,0 +1,95 @@
+{
+  "concept_id": "jealousy",
+  "name_vi": "Ghen tuông",
+  "name_en": "Jealousy",
+  "domain": "interpersonal",
+  "subcategory": "relationship affect",
+  "definition": "Cảm xúc và suy nghĩ phát sinh khi nhận thấy mối đe dọa đối với quan hệ có giá trị từ một đối thủ thực hoặc tưởng tượng.",
+  "mechanism": [
+    "Đánh giá đe dọa mất quan hệ",
+    "So sánh với đối thủ",
+    "Hành vi bảo vệ quan hệ"
+  ],
+  "common_triggers": [
+    "Chú ý của đối phương tới người khác",
+    "Bí mật",
+    "Lịch sử ngoại tình"
+  ],
+  "associated_thoughts": [
+    "Họ thích người kia hơn",
+    "Mình sẽ mất họ"
+  ],
+  "associated_emotions": [
+    "ghen",
+    "lo âu",
+    "giận"
+  ],
+  "associated_behaviors": [
+    "Kiểm tra",
+    "Hỏi truy",
+    "Rút lui",
+    "Trách móc"
+  ],
+  "maintaining_factors": [
+    "Kiểm soát làm tăng bất an",
+    "Thiếu giao tiếp rõ"
+  ],
+  "protective_factors": [
+    "Tin cậy",
+    "Ranh giới thỏa thuận",
+    "Tự đánh giá ổn định"
+  ],
+  "related_concepts": [
+    "social-comparison",
+    "rejection-sensitivity",
+    "fear-of-abandonment"
+  ],
+  "alternative_explanations": [
+    "Dấu hiệu không trung thực thực tế",
+    "Ranh giới quan hệ chưa rõ"
+  ],
+  "misconceptions": [
+    "Ghen = luôn bệnh lý",
+    "Không ghen = không yêu"
+  ],
+  "limitations": [
+    "Ghen phổ biến; phân biệt ghen thích nghi và ghen gây hại cần ngữ cảnh"
+  ],
+  "evidence_strength": "MODERATE",
+  "clinical_or_nonclinical": "NON_CLINICAL",
+  "when_not_to_infer": [
+    "Ghen nhẹ thoáng qua",
+    "Có bằng chứng khách quan về đe dọa quan hệ",
+    "Thiếu tần suất/cường độ",
+    "Không suy ra rối loạn ghen bệnh lý"
+  ],
+  "evidence": [
+    {
+      "evidence_id": "ev-jel-001",
+      "claim": "Jealousy được mô tả như phản ứng với đe dọa thực hoặc tưởng tượng đối với quan hệ có giá trị.",
+      "evidence_strength": "MODERATE",
+      "source_ids": [
+        "src-white-mullen-1989"
+      ],
+      "limitations": [
+        "Tổng hợp lý thuyết/nghiên cứu; không phải tiêu chí chẩn đoán"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-white-mullen-1989",
+      "title": "Jealousy: Theory, Research, and Clinical Strategies",
+      "authors": [
+        "Gregory L. White",
+        "Paul E. Mullen"
+      ],
+      "year": 1989,
+      "source_type": "TEXTBOOK",
+      "publisher": "Guilford Press"
+    }
+  ],
+  "status": "VERIFIED",
+  "version": "1.0.0",
+  "last_reviewed": "2026-09-15"
+}

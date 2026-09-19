@@ -1,0 +1,94 @@
+{
+  "concept_id": "emotion-regulation",
+  "name_vi": "Điều hòa cảm xúc",
+  "name_en": "Emotion Regulation",
+  "domain": "emotion",
+  "subcategory": "regulatory processes",
+  "definition": "Các quá trình ảnh hưởng đến cảm xúc nào xuất hiện, khi nào, và cách trải nghiệm hoặc biểu lộ cảm xúc đó.",
+  "mechanism": [
+    "Lựa chọn tình huống",
+    "Điều chỉnh chú ý",
+    "Tái đánh giá nhận thức",
+    "Điều chỉnh đáp ứng"
+  ],
+  "common_triggers": [
+    "Cảm xúc mạnh",
+    "Xung đột",
+    "Áp lực"
+  ],
+  "associated_thoughts": [
+    "Mình không được cảm thấy thế này",
+    "Cần bình tĩnh ngay"
+  ],
+  "associated_emotions": [
+    "lo âu",
+    "tức giận",
+    "buồn"
+  ],
+  "associated_behaviors": [
+    "Tránh",
+    "Ức chế biểu cảm",
+    "Tìm hỗ trợ",
+    "Tái đánh giá"
+  ],
+  "maintaining_factors": [
+    "Ức chế kéo dài có thể tăng chi phí cảm xúc",
+    "Tránh tình huống học được ít kỹ năng mới"
+  ],
+  "protective_factors": [
+    "Tái đánh giá linh hoạt",
+    "Chấp nhận cảm xúc",
+    "Hỗ trợ xã hội"
+  ],
+  "related_concepts": [
+    "avoidance",
+    "rumination",
+    "self-criticism"
+  ],
+  "alternative_explanations": [
+    "Phản ứng cảm xúc phù hợp với sự kiện",
+    "Chiến lược văn hóa khác nhau"
+  ],
+  "misconceptions": [
+    "Cảm xúc mạnh = rối loạn điều hòa",
+    "Phải luôn kiểm soát cảm xúc"
+  ],
+  "limitations": [
+    "Khái niệm rộng; chiến lược khác nhau có hiệu quả khác nhau tùy ngữ cảnh"
+  ],
+  "evidence_strength": "STRONG",
+  "clinical_or_nonclinical": "NON_CLINICAL",
+  "when_not_to_infer": [
+    "Cảm xúc mạnh sau sự kiện lớn là phản ứng bình thường",
+    "Thiếu thông tin về chiến lược đang dùng",
+    "Không suy ra rối loạn cảm xúc"
+  ],
+  "evidence": [
+    {
+      "evidence_id": "ev-er-001",
+      "claim": "Emotion regulation gồm nhiều quá trình (tình huống, chú ý, nhận thức, đáp ứng) ảnh hưởng trải nghiệm và biểu lộ cảm xúc.",
+      "evidence_strength": "STRONG",
+      "source_ids": [
+        "src-gross-1998"
+      ],
+      "limitations": [
+        "Tổng quan lý thuyết; không phải tiêu chí chẩn đoán"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-gross-1998",
+      "title": "The emerging field of emotion regulation: An integrative review",
+      "authors": [
+        "James J. Gross"
+      ],
+      "year": 1998,
+      "source_type": "PEER_REVIEWED",
+      "journal": "Review of General Psychology"
+    }
+  ],
+  "status": "VERIFIED",
+  "version": "1.0.0",
+  "last_reviewed": "2026-09-15"
+}

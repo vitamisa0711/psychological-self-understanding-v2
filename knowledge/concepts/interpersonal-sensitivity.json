@@ -1,0 +1,92 @@
+{
+  "concept_id": "interpersonal-sensitivity",
+  "name_vi": "Nhạy cảm trong quan hệ liên cá nhân",
+  "name_en": "Interpersonal Sensitivity",
+  "domain": "interpersonal",
+  "subcategory": "social cognition",
+  "definition": "Mức độ nhạy cảm với đánh giá, thái độ, và phản hồi của người khác trong tương tác xã hội.",
+  "mechanism": [
+    "Chú ý cao tới tín hiệu xã hội",
+    "Dễ bị ảnh hưởng bởi phản hồi tiêu cực hoặc mơ hồ"
+  ],
+  "common_triggers": [
+    "Phản hồi trung tính",
+    "Gợi ý phê bình",
+    "Tình huống bị đánh giá"
+  ],
+  "associated_thoughts": [
+    "Họ đang đánh giá mình",
+    "Mình đã làm họ khó chịu"
+  ],
+  "associated_emotions": [
+    "lo âu",
+    "xấu hổ"
+  ],
+  "associated_behaviors": [
+    "Theo dõi phản ứng người khác",
+    "Điều chỉnh quá mức",
+    "Rút lui"
+  ],
+  "maintaining_factors": [
+    "Xác nhận có chọn lọc",
+    "Tránh phản hồi thật"
+  ],
+  "protective_factors": [
+    "Thực tế kiểm tra",
+    "Tự đánh giá ổn định hơn"
+  ],
+  "related_concepts": [
+    "rejection-sensitivity",
+    "social-comparison",
+    "self-esteem"
+  ],
+  "alternative_explanations": [
+    "Đồng cảm cao",
+    "Văn hóa nhạy cảm tập thể",
+    "Tình huống thực sự có đánh giá"
+  ],
+  "misconceptions": [
+    "Nhạy cảm = yếu đuối",
+    "Interpersonal sensitivity = rối loạn"
+  ],
+  "limitations": [
+    "Phổ trên dân số chung; mức độ lâm sàng cần đánh giá chuyên biệt"
+  ],
+  "evidence_strength": "MODERATE",
+  "clinical_or_nonclinical": "NON_CLINICAL",
+  "when_not_to_infer": [
+    "Quan tâm bình thường đến cảm nhận người khác",
+    "Một lần lo lắng trước đánh giá",
+    "Thiếu pattern",
+    "Không suy ra rối loạn"
+  ],
+  "evidence": [
+    {
+      "evidence_id": "ev-is-001",
+      "claim": "Nhạy cảm với đánh giá và khả năng bị từ chối trong quan hệ được nghiên cứu trong các mô hình rejection sensitivity và nhận thức xã hội.",
+      "evidence_strength": "MODERATE",
+      "source_ids": [
+        "src-downey-feldman-1996"
+      ],
+      "limitations": [
+        "Overlap với rejection sensitivity; không phải chẩn đoán"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-downey-feldman-1996",
+      "title": "Implications of Rejection Sensitivity for Intimate Relationships",
+      "authors": [
+        "Geraldine Downey",
+        "Scott I. Feldman"
+      ],
+      "year": 1996,
+      "source_type": "PEER_REVIEWED",
+      "journal": "Journal of Personality and Social Psychology"
+    }
+  ],
+  "status": "VERIFIED",
+  "version": "1.0.0",
+  "last_reviewed": "2026-09-15"
+}

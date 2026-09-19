@@ -1,0 +1,104 @@
+{
+  "concept_id": "emotional-neglect",
+  "name_vi": "Bỏ bê cảm xúc",
+  "name_en": "Emotional Neglect",
+  "domain": "developmental_interpersonal",
+  "subcategory": "early experience (non-causal default)",
+  "definition": "Tình huống nhu cầu cảm xúc không được đáp ứng một cách nhất quán (không được chú ý, an ủi, hoặc thừa nhận), có thể xảy ra trong các mối quan hệ chăm sóc hoặc gần gũi.",
+  "mechanism": [
+    "Thiếu phản hồi cảm xúc có thể ảnh hưởng kỳ vọng về việc được hỗ trợ",
+    "Không đồng nghĩa mọi khó khăn hiện tại đều do bỏ bê cảm xúc thời thơ ấu"
+  ],
+  "common_triggers": [
+    "Khi cần hỗ trợ cảm xúc mà không nhận được",
+    "Chia sẻ bị bỏ qua"
+  ],
+  "associated_thoughts": [
+    "Cảm xúc của mình không quan trọng",
+    "Mình phải tự chịu"
+  ],
+  "associated_emotions": [
+    "cô đơn",
+    "buồn",
+    "trống rỗng"
+  ],
+  "associated_behaviors": [
+    "Không bày tỏ nhu cầu",
+    "Tự xử lý quá mức",
+    "Khó tin vào hỗ trợ"
+  ],
+  "maintaining_factors": [
+    "Không thực hành bày tỏ nhu cầu",
+    "Chọn quan hệ ít phản hồi"
+  ],
+  "protective_factors": [
+    "Quan hệ đáp ứng cảm xúc",
+    "Học nhận diện và nêu nhu cầu"
+  ],
+  "related_concepts": [
+    "emotional-invalidation",
+    "attachment-related-patterns",
+    "self-esteem"
+  ],
+  "alternative_explanations": [
+    "Đối phương thiếu kỹ năng chứ không cố ý bỏ bê",
+    "Khác biệt kỳ vọng văn hóa về biểu lộ cảm xúc",
+    "Stress làm giảm khả năng đáp ứng tạm thời"
+  ],
+  "misconceptions": [
+    "Mọi khó khăn cảm xúc đều do emotional neglect tuổi thơ",
+    "Emotional neglect = luôn là chấn thương nặng"
+  ],
+  "limitations": [
+    "Hồi tưởng tuổi thơ dễ sai lệch",
+    "Không được suy ra nguyên nhân tuổi thơ chỉ từ hành vi hiện tại"
+  ],
+  "evidence_strength": "LIMITED",
+  "clinical_or_nonclinical": "MIXED",
+  "when_not_to_infer": [
+    "Không có thông tin từ người dùng về lịch sử chăm sóc",
+    "Chỉ dựa trên cảm xúc hiện tại",
+    "Không được mặc định childhood trauma/neglect",
+    "Không suy ra rối loạn gắn bó hay nhân cách"
+  ],
+  "evidence": [
+    {
+      "evidence_id": "ev-en-001",
+      "claim": "Thiếu đáp ứng cảm xúc nhất quán trong môi trường chăm sóc được thảo luận như yếu tố liên quan đến khó khăn cảm xúc sau này trong một số mô hình phát triển và lâm sàng.",
+      "evidence_strength": "LIMITED",
+      "source_ids": [
+        "src-linehan-1993",
+        "src-bowlby-1969"
+      ],
+      "limitations": [
+        "Không chứng minh nhân quả đơn giản từ hành vi hiện tại về quá khứ",
+        "Cần dữ liệu từ người dùng; không suy diễn"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-linehan-1993",
+      "title": "Cognitive-Behavioral Treatment of Borderline Personality Disorder",
+      "authors": [
+        "Marsha M. Linehan"
+      ],
+      "year": 1993,
+      "source_type": "TEXTBOOK",
+      "publisher": "Guilford Press"
+    },
+    {
+      "source_id": "src-bowlby-1969",
+      "title": "Attachment and Loss: Volume 1. Attachment",
+      "authors": [
+        "John Bowlby"
+      ],
+      "year": 1969,
+      "source_type": "TEXTBOOK",
+      "publisher": "Basic Books"
+    }
+  ],
+  "status": "VERIFIED",
+  "version": "1.0.0",
+  "last_reviewed": "2026-09-15"
+}

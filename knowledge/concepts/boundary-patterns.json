@@ -1,0 +1,92 @@
+{
+  "concept_id": "boundary-patterns",
+  "name_vi": "Các kiểu mẫu liên quan đến ranh giới",
+  "name_en": "Boundary-related Patterns",
+  "domain": "interpersonal",
+  "subcategory": "boundaries",
+  "definition": "Cách cá nhân xác định, thể hiện và duy trì giới hạn giữa nhu cầu/giá trị của mình và yêu cầu của người khác.",
+  "mechanism": [
+    "Ranh giới quá cứng có thể cô lập",
+    "Ranh giới quá lỏng có thể dẫn đến kiệt sức hoặc mất tự chủ"
+  ],
+  "common_triggers": [
+    "Yêu cầu thời gian/công sức",
+    "Xâm phạm riêng tư",
+    "Xung đột nhu cầu"
+  ],
+  "associated_thoughts": [
+    "Mình không được từ chối",
+    "Nếu mình mở lòng sẽ bị tổn thương"
+  ],
+  "associated_emotions": [
+    "tội lỗi",
+    "giận",
+    "lo âu"
+  ],
+  "associated_behaviors": [
+    "Nói có quá mức",
+    "Đóng cửa cảm xúc",
+    "Bùng nổ sau khi chịu đựng"
+  ],
+  "maintaining_factors": [
+    "Sợ xung đột",
+    "Thiếu mô hình ranh giới lành mạnh"
+  ],
+  "protective_factors": [
+    "Kỹ năng giao tiếp rõ",
+    "Tôn trọng nhu cầu hai phía"
+  ],
+  "related_concepts": [
+    "people-pleasing",
+    "conflict-avoidance",
+    "emotion-regulation"
+  ],
+  "alternative_explanations": [
+    "Thỏa hiệp lành mạnh",
+    "Ranh giới văn hóa khác nhau"
+  ],
+  "misconceptions": [
+    "Đặt ranh giới là ích kỷ",
+    "Không có ranh giới cứng = luôn lành mạnh"
+  ],
+  "limitations": [
+    "Khái niệm phổ biến trong tư vấn; bằng chứng thực nghiệm đa dạng"
+  ],
+  "evidence_strength": "LIMITED",
+  "clinical_or_nonclinical": "NON_CLINICAL",
+  "when_not_to_infer": [
+    "Một lần đồng ý giúp đỡ",
+    "Thỏa hiệp có chủ đích",
+    "Thiếu pattern và chi phí",
+    "Không pathologize"
+  ],
+  "evidence": [
+    {
+      "evidence_id": "ev-bp-001",
+      "claim": "Khó khẳng định nhu cầu cá nhân trong quan hệ có thể liên quan đến sợ từ chối và các chiến lược duy trì hòa khí.",
+      "evidence_strength": "LIMITED",
+      "source_ids": [
+        "src-downey-feldman-1996"
+      ],
+      "limitations": [
+        "Liên hệ gián tiếp; boundary là khái niệm ứng dụng"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-downey-feldman-1996",
+      "title": "Implications of Rejection Sensitivity for Intimate Relationships",
+      "authors": [
+        "Geraldine Downey",
+        "Scott I. Feldman"
+      ],
+      "year": 1996,
+      "source_type": "PEER_REVIEWED",
+      "journal": "Journal of Personality and Social Psychology"
+    }
+  ],
+  "status": "VERIFIED",
+  "version": "1.0.0",
+  "last_reviewed": "2026-09-15"
+}

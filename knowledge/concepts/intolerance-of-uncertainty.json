@@ -1,0 +1,90 @@
+{
+  "concept_id": "intolerance-of-uncertainty",
+  "name_vi": "Khó dung nạp sự không chắc chắn",
+  "name_en": "Intolerance of Uncertainty",
+  "domain": "cognition",
+  "subcategory": "anxiety-related cognition",
+  "definition": "Xu hướng coi sự không chắc chắn là tiêu cực hoặc không thể chịu đựng, và phản ứng bằng lo âu hoặc hành vi kiểm soát.",
+  "mechanism": [
+    "Đánh giá tiêu cực về tình huống mơ hồ",
+    "Nỗ lực giảm không chắc chắn qua kiểm soát hoặc tránh né"
+  ],
+  "common_triggers": [
+    "Chờ kết quả",
+    "Thay đổi kế hoạch",
+    "Thông tin mâu thuẫn"
+  ],
+  "associated_thoughts": [
+    "Không biết thì rất nguy hiểm",
+    "Mình phải chắc chắn"
+  ],
+  "associated_emotions": [
+    "lo âu",
+    "căng thẳng"
+  ],
+  "associated_behaviors": [
+    "Tìm kiếm thông tin quá mức",
+    "Trì hoãn quyết định",
+    "Tránh tình huống mơ hồ"
+  ],
+  "maintaining_factors": [
+    "Tìm thông tin làm giảm lo âu tạm thời",
+    "Tránh né ngăn học cách chịu đựng mơ hồ"
+  ],
+  "protective_factors": [
+    "Chấp nhận mức không chắc chắn hợp lý",
+    "Ra quyết định với thông tin đủ chứ không tuyệt đối"
+  ],
+  "related_concepts": [
+    "reassurance-seeking",
+    "avoidance",
+    "rumination"
+  ],
+  "alternative_explanations": [
+    "Tình huống thực sự rủi ro cao cần thận trọng",
+    "Thiếu thông tin quan trọng khách quan"
+  ],
+  "misconceptions": [
+    "Muốn rõ ràng = intolerance of uncertainty",
+    "IU là rối loạn lo âu"
+  ],
+  "limitations": [
+    "Liên quan với lo âu nhưng không đồng nhất với chẩn đoán"
+  ],
+  "evidence_strength": "MODERATE",
+  "clinical_or_nonclinical": "MIXED",
+  "when_not_to_infer": [
+    "Chỉ khó chịu nhẹ với việc chờ đợi",
+    "Bối cảnh cần thận trọng hợp lý",
+    "Thiếu dữ liệu về tần suất và ảnh hưởng",
+    "Không suy ra rối loạn lo âu"
+  ],
+  "evidence": [
+    {
+      "evidence_id": "ev-iu-001",
+      "claim": "Intolerance of uncertainty được đề xuất như yếu tố liên quan đến trải nghiệm lo âu trước cái chưa biết.",
+      "evidence_strength": "MODERATE",
+      "source_ids": [
+        "src-carleton-2016"
+      ],
+      "limitations": [
+        "Tổng hợp lý thuyết và nghiên cứu; không phải tiêu chí chẩn đoán"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-carleton-2016",
+      "title": "Fear of the unknown: One fear to rule them all?",
+      "authors": [
+        "R. Nicholas Carleton"
+      ],
+      "year": 2016,
+      "source_type": "PEER_REVIEWED",
+      "journal": "Journal of Anxiety Disorders"
+    }
+  ],
+  "status": "VERIFIED",
+  "version": "1.0.0",
+  "last_reviewed": "2026-09-15"
+}

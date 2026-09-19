@@ -1,0 +1,91 @@
+{
+  "concept_id": "emotional-invalidation",
+  "name_vi": "Vô hiệu hóa / phủ nhận cảm xúc",
+  "name_en": "Emotional Invalidation",
+  "domain": "interpersonal",
+  "subcategory": "emotional communication",
+  "definition": "Trải nghiệm bị người khác bác bỏ, giảm nhẹ, hoặc phủ nhận cảm xúc và trải nghiệm chủ quan của mình.",
+  "mechanism": [
+    "Học cách nghi ngờ cảm xúc của chính mình",
+    "Tăng khó khăn nhận diện và bày tỏ cảm xúc"
+  ],
+  "common_triggers": [
+    "Chia sẻ cảm xúc bị bảo 'quá đáng'",
+    "Bị so sánh",
+    "Bị bỏ qua"
+  ],
+  "associated_thoughts": [
+    "Cảm xúc của mình sai",
+    "Mình quá nhạy cảm"
+  ],
+  "associated_emotions": [
+    "xấu hổ",
+    "buồn",
+    "giận"
+  ],
+  "associated_behaviors": [
+    "Giấu cảm xúc",
+    "Bùng nổ",
+    "Tìm validation ở nơi khác"
+  ],
+  "maintaining_factors": [
+    "Môi trường tiếp tục invalidating",
+    "Tự invalidation"
+  ],
+  "protective_factors": [
+    "Môi trường thừa nhận cảm xúc",
+    "Kỹ năng tự xác nhận"
+  ],
+  "related_concepts": [
+    "emotion-regulation",
+    "self-criticism",
+    "emotional-neglect"
+  ],
+  "alternative_explanations": [
+    "Bất đồng ý kiến không phải lúc nào cũng invalidation",
+    "Khó khăn giao tiếp hai phía"
+  ],
+  "misconceptions": [
+    "Mọi phản bác = invalidation",
+    "Invalidation = luôn dẫn tới rối loạn nhân cách"
+  ],
+  "limitations": [
+    "Khái niệm quan trọng trong một số mô hình lâm sàng; không suy ra chẩn đoán từ vài sự kiện"
+  ],
+  "evidence_strength": "MODERATE",
+  "clinical_or_nonclinical": "MIXED",
+  "when_not_to_infer": [
+    "Một lần không đồng ý",
+    "Thiếu pattern lặp lại",
+    "Không mặc định childhood invalidation",
+    "Không suy ra BPD"
+  ],
+  "evidence": [
+    {
+      "evidence_id": "ev-ei-001",
+      "claim": "Môi trường invalidating được mô tả như yếu tố liên quan đến khó khăn điều hòa cảm xúc trong một số mô hình lâm sàng.",
+      "evidence_strength": "MODERATE",
+      "source_ids": [
+        "src-linehan-1993"
+      ],
+      "limitations": [
+        "Mô tả trong bối cảnh điều trị BPD — không áp nhãn BPD cho người dùng"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-linehan-1993",
+      "title": "Cognitive-Behavioral Treatment of Borderline Personality Disorder",
+      "authors": [
+        "Marsha M. Linehan"
+      ],
+      "year": 1993,
+      "source_type": "TEXTBOOK",
+      "publisher": "Guilford Press"
+    }
+  ],
+  "status": "VERIFIED",
+  "version": "1.0.0",
+  "last_reviewed": "2026-09-15"
+}

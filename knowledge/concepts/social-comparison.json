@@ -1,0 +1,88 @@
+{
+  "concept_id": "social-comparison",
+  "name_vi": "So sánh xã hội",
+  "name_en": "Social Comparison",
+  "domain": "social",
+  "subcategory": "self-evaluation",
+  "definition": "Quá trình đánh giá bản thân bằng cách so sánh với người khác trên các khía cạnh như thành tích, ngoại hình, hoặc địa vị.",
+  "mechanism": [
+    "So sánh lên có thể làm giảm đánh giá bản thân",
+    "So sánh xuống có thể tạm thời nâng đỡ"
+  ],
+  "common_triggers": [
+    "Mạng xã hội",
+    "Môi trường cạnh tranh",
+    "Thành tích công khai"
+  ],
+  "associated_thoughts": [
+    "Họ hơn mình",
+    "Mình tụt lại"
+  ],
+  "associated_emotions": [
+    "ghen tị",
+    "bất an",
+    "động lực"
+  ],
+  "associated_behaviors": [
+    "Cuộn mạng xã hội",
+    "Cạnh tranh",
+    "Rút lui"
+  ],
+  "maintaining_factors": [
+    "Phơi nhiễm chọn lọc thành công của người khác"
+  ],
+  "protective_factors": [
+    "Giới hạn so sánh",
+    "Tập trung tiêu chuẩn nội tại"
+  ],
+  "related_concepts": [
+    "self-esteem",
+    "jealousy",
+    "perfectionism"
+  ],
+  "alternative_explanations": [
+    "Học hỏi từ người khác",
+    "Đánh giá thông tin nghề nghiệp cần thiết"
+  ],
+  "misconceptions": [
+    "Mọi so sánh đều độc hại"
+  ],
+  "limitations": [
+    "Lý thuyết kinh điển; hiệu ứng phụ thuộc hướng so sánh và ngữ cảnh"
+  ],
+  "evidence_strength": "STRONG",
+  "clinical_or_nonclinical": "NON_CLINICAL",
+  "when_not_to_infer": [
+    "So sánh mang tính học hỏi",
+    "Một lần so sánh thoáng qua",
+    "Không suy ra rối loạn"
+  ],
+  "evidence": [
+    {
+      "evidence_id": "ev-soc-001",
+      "claim": "Con người đánh giá ý kiến và khả năng của mình một phần thông qua so sánh với người khác.",
+      "evidence_strength": "STRONG",
+      "source_ids": [
+        "src-festinger-1954"
+      ],
+      "limitations": [
+        "Lý thuyết nền; ứng dụng hiện đại (MXH) cần ngữ cảnh thêm"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-festinger-1954",
+      "title": "A theory of social comparison processes",
+      "authors": [
+        "Leon Festinger"
+      ],
+      "year": 1954,
+      "source_type": "PEER_REVIEWED",
+      "journal": "Human Relations"
+    }
+  ],
+  "status": "VERIFIED",
+  "version": "1.0.0",
+  "last_reviewed": "2026-09-15"
+}

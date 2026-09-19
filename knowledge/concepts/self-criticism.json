@@ -1,0 +1,93 @@
+{
+  "concept_id": "self-criticism",
+  "name_vi": "Tự phê bình",
+  "name_en": "Self-Criticism",
+  "domain": "self",
+  "subcategory": "self-evaluation",
+  "definition": "Xu hướng đánh giá bản thân theo hướng khắc nghiệt, tập trung vào thiếu sót và gắn lỗi với giá trị bản thân.",
+  "mechanism": [
+    "Nội hóa tiêu chuẩn cao",
+    "Gán lỗi toàn cục cho bản thân",
+    "Thiếu giọng nói tự hỗ trợ"
+  ],
+  "common_triggers": [
+    "Sai sót",
+    "Phản hồi tiêu cực",
+    "So sánh"
+  ],
+  "associated_thoughts": [
+    "Mình không đủ tốt",
+    "Mình luôn làm hỏng việc"
+  ],
+  "associated_emotions": [
+    "xấu hổ",
+    "buồn",
+    "lo âu"
+  ],
+  "associated_behaviors": [
+    "Rút lui",
+    "Làm việc quá sức",
+    "Tránh thử thách"
+  ],
+  "maintaining_factors": [
+    "Tin rằng tự phê bình giúp tiến bộ",
+    "Thiếu thực hành tự từ bi"
+  ],
+  "protective_factors": [
+    "Tự từ bi",
+    "Phản hồi cân bằng",
+    "Quan hệ hỗ trợ"
+  ],
+  "related_concepts": [
+    "perfectionism",
+    "self-esteem",
+    "rumination"
+  ],
+  "alternative_explanations": [
+    "Đánh giá thực tế để cải thiện",
+    "Phản hồi nghề nghiệp khách quan"
+  ],
+  "misconceptions": [
+    "Tự phản tỉnh = self-criticism độc hại",
+    "Self-criticism = trầm cảm"
+  ],
+  "limitations": [
+    "Phổ biến trong dân số chung; mức độ và tính cứng nhắc quan trọng hơn sự hiện diện"
+  ],
+  "evidence_strength": "MODERATE",
+  "clinical_or_nonclinical": "NON_CLINICAL",
+  "when_not_to_infer": [
+    "Chỉ tự nhận xét một lần sau sai sót",
+    "Đánh giá mang tính xây dựng",
+    "Thiếu ảnh hưởng chức năng",
+    "Không suy ra rối loạn cảm xúc"
+  ],
+  "evidence": [
+    {
+      "evidence_id": "ev-sc-001",
+      "claim": "Self-criticism liên quan đến cảm xúc khó chịu và có thể được tiếp cận qua các mô hình tập trung vào lòng trắc ẩn.",
+      "evidence_strength": "MODERATE",
+      "source_ids": [
+        "src-gilbert-2009"
+      ],
+      "limitations": [
+        "Khung lý thuyết/lâm sàng; không phải chẩn đoán"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-gilbert-2009",
+      "title": "The Compassionate Mind",
+      "authors": [
+        "Paul Gilbert"
+      ],
+      "year": 2009,
+      "source_type": "TEXTBOOK",
+      "publisher": "Constable"
+    }
+  ],
+  "status": "VERIFIED",
+  "version": "1.0.0",
+  "last_reviewed": "2026-09-15"
+}

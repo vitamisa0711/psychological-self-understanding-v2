@@ -1,0 +1,96 @@
+{
+  "concept_id": "cognitive-distortions",
+  "name_vi": "Các kiểu méo mó nhận thức",
+  "name_en": "Cognitive Distortions",
+  "domain": "cognition",
+  "subcategory": "thinking patterns",
+  "definition": "Các kiểu suy nghĩ thiên lệch có hệ thống (ví dụ đọc suy nghĩ, suy diễn thảm họa, tư duy đen-trắng) có thể làm tăng cảm xúc khó chịu.",
+  "mechanism": [
+    "Đánh giá tự động thiên lệch",
+    "Bỏ qua bằng chứng ngược",
+    "Kết luận vượt quá dữ liệu"
+  ],
+  "common_triggers": [
+    "Phản hồi mơ hồ",
+    "Thất bại nhỏ",
+    "Xung đột"
+  ],
+  "associated_thoughts": [
+    "Họ nghĩ xấu về mình",
+    "Mọi thứ sẽ sụp đổ",
+    "Nếu không hoàn hảo thì vô dụng"
+  ],
+  "associated_emotions": [
+    "lo âu",
+    "buồn",
+    "tức giận"
+  ],
+  "associated_behaviors": [
+    "Tránh",
+    "Tranh cãi",
+    "Rút lui"
+  ],
+  "maintaining_factors": [
+    "Không kiểm tra giả thuyết",
+    "Chỉ tìm bằng chứng ủng hộ"
+  ],
+  "protective_factors": [
+    "Ghi nhận bằng chứng đa chiều",
+    "Phân biệt sự kiện và diễn giải"
+  ],
+  "related_concepts": [
+    "rumination",
+    "self-criticism",
+    "perfectionism"
+  ],
+  "alternative_explanations": [
+    "Đánh giá thực tế về rủi ro",
+    "Thông tin còn thiếu"
+  ],
+  "misconceptions": [
+    "Mọi suy nghĩ tiêu cực đều là cognitive distortion",
+    "Có distortion = bệnh tâm thần"
+  ],
+  "limitations": [
+    "Khái niệm lâm sàng-giáo dục; không phải chẩn đoán"
+  ],
+  "evidence_strength": "MODERATE",
+  "clinical_or_nonclinical": "NON_CLINICAL",
+  "when_not_to_infer": [
+    "Chỉ một suy nghĩ tiêu cực đơn lẻ",
+    "Đánh giá phù hợp với bằng chứng",
+    "Thiếu ngữ cảnh",
+    "Không chẩn đoán rối loạn"
+  ],
+  "evidence": [
+    {
+      "evidence_id": "ev-cd-001",
+      "claim": "Cognitive therapy mô tả các lỗi suy nghĩ có hệ thống liên quan đến cảm xúc khó chịu.",
+      "evidence_strength": "MODERATE",
+      "source_ids": [
+        "src-beck-1979"
+      ],
+      "limitations": [
+        "Khung lâm sàng; áp dụng phổ quát cần thận trọng"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-beck-1979",
+      "title": "Cognitive Therapy of Depression",
+      "authors": [
+        "Aaron T. Beck",
+        "A. John Rush",
+        "Brian F. Shaw",
+        "Gary Emery"
+      ],
+      "year": 1979,
+      "source_type": "TEXTBOOK",
+      "publisher": "Guilford Press"
+    }
+  ],
+  "status": "VERIFIED",
+  "version": "1.0.0",
+  "last_reviewed": "2026-09-15"
+}

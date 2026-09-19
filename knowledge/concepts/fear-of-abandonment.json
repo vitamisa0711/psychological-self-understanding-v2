@@ -1,0 +1,100 @@
+{
+  "concept_id": "fear-of-abandonment",
+  "name_vi": "Sợ bị bỏ rơi",
+  "name_en": "Fear of Abandonment",
+  "domain": "interpersonal",
+  "subcategory": "attachment-related affect",
+  "definition": "Nỗi lo mạnh về khả năng bị người quan trọng rời bỏ hoặc rút lại sự quan tâm.",
+  "mechanism": [
+    "Nhạy cảm với dấu hiệu xa cách",
+    "Kỳ vọng mất kết nối"
+  ],
+  "common_triggers": [
+    "Im lặng",
+    "Thay đổi kế hoạch",
+    "Dấu hiệu rút lui"
+  ],
+  "associated_thoughts": [
+    "Họ sẽ bỏ mình",
+    "Mình sẽ ở một mình"
+  ],
+  "associated_emotions": [
+    "lo âu",
+    "sợ",
+    "buồn"
+  ],
+  "associated_behaviors": [
+    "Bám víu",
+    "Kiểm tra",
+    "Giận phòng vệ"
+  ],
+  "maintaining_factors": [
+    "Hành vi kiểm soát làm tăng căng thẳng quan hệ"
+  ],
+  "protective_factors": [
+    "Giao tiếp rõ",
+    "Trải nghiệm quan hệ ổn định"
+  ],
+  "related_concepts": [
+    "rejection-sensitivity",
+    "attachment-related-patterns",
+    "reassurance-seeking"
+  ],
+  "alternative_explanations": [
+    "Phản ứng với hành vi không nhất quán thực tế của đối phương",
+    "Mất mát gần đây"
+  ],
+  "misconceptions": [
+    "Sợ bị bỏ = borderline personality disorder"
+  ],
+  "limitations": [
+    "Cảm xúc phổ biến; chỉ trở thành vấn đề khi cường độ/tần suất cao và ảnh hưởng chức năng"
+  ],
+  "evidence_strength": "LIMITED",
+  "clinical_or_nonclinical": "MIXED",
+  "when_not_to_infer": [
+    "Lo lắng thoáng qua khi người thân đi vắng",
+    "Thiếu pattern lặp lại",
+    "Không suy ra rối loạn nhân cách",
+    "Không mặc định childhood trauma"
+  ],
+  "evidence": [
+    {
+      "evidence_id": "ev-foa-001",
+      "claim": "Nỗi sợ mất kết nối với người gắn bó là chủ đề trung tâm trong lý thuyết gắn bó và một số mô tả lâm sàng về khó khăn quan hệ.",
+      "evidence_strength": "LIMITED",
+      "source_ids": [
+        "src-bowlby-1969",
+        "src-linehan-1993"
+      ],
+      "limitations": [
+        "Linehan mô tả trong bối cảnh BPD — không được áp nhãn BPD cho người dùng phổ thông"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-bowlby-1969",
+      "title": "Attachment and Loss: Volume 1. Attachment",
+      "authors": [
+        "John Bowlby"
+      ],
+      "year": 1969,
+      "source_type": "TEXTBOOK",
+      "publisher": "Basic Books"
+    },
+    {
+      "source_id": "src-linehan-1993",
+      "title": "Cognitive-Behavioral Treatment of Borderline Personality Disorder",
+      "authors": [
+        "Marsha M. Linehan"
+      ],
+      "year": 1993,
+      "source_type": "TEXTBOOK",
+      "publisher": "Guilford Press"
+    }
+  ],
+  "status": "VERIFIED",
+  "version": "1.0.0",
+  "last_reviewed": "2026-09-15"
+}

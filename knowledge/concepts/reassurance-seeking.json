@@ -1,0 +1,90 @@
+{
+  "concept_id": "reassurance-seeking",
+  "name_vi": "Tìm kiếm sự trấn an",
+  "name_en": "Reassurance Seeking",
+  "domain": "interpersonal",
+  "subcategory": "safety behavior",
+  "definition": "Hành vi hỏi đi hỏi lại để được xác nhận về quan hệ, giá trị bản thân, hoặc an toàn, nhằm giảm lo âu ngắn hạn.",
+  "mechanism": [
+    "Giảm lo âu tức thì",
+    "Củng cố niềm tin cần xác nhận bên ngoài"
+  ],
+  "common_triggers": [
+    "Nghi ngờ quan hệ",
+    "Sợ bị từ chối",
+    "Không chắc chắn"
+  ],
+  "associated_thoughts": [
+    "Nếu họ nói lại lần nữa mình sẽ yên tâm"
+  ],
+  "associated_emotions": [
+    "lo âu",
+    "bất an"
+  ],
+  "associated_behaviors": [
+    "Hỏi lặp lại",
+    "Kiểm tra tin nhắn",
+    "Tìm bằng chứng yêu thương"
+  ],
+  "maintaining_factors": [
+    "Trấn an làm giảm lo âu tạm thời rồi lo âu quay lại"
+  ],
+  "protective_factors": [
+    "Tự trấn an dựa trên bằng chứng",
+    "Thỏa thuận giao tiếp rõ"
+  ],
+  "related_concepts": [
+    "rejection-sensitivity",
+    "intolerance-of-uncertainty",
+    "fear-of-abandonment"
+  ],
+  "alternative_explanations": [
+    "Cần làm rõ thông tin một lần vì hiểu lầm thực sự",
+    "Giao tiếp bình thường"
+  ],
+  "misconceptions": [
+    "Hỏi quan tâm = reassurance seeking bệnh lý"
+  ],
+  "limitations": [
+    "Phổ biến; vấn đề khi lặp lại cưỡng bức và làm căng quan hệ"
+  ],
+  "evidence_strength": "MODERATE",
+  "clinical_or_nonclinical": "NON_CLINICAL",
+  "when_not_to_infer": [
+    "Chỉ hỏi làm rõ một lần",
+    "Có hiểu lầm khách quan cần giải quyết",
+    "Thiếu tần suất và ảnh hưởng",
+    "Không suy ra rối loạn lo âu hay OCD"
+  ],
+  "evidence": [
+    {
+      "evidence_id": "ev-rs2-001",
+      "claim": "Tìm kiếm trấn an có thể hoạt động như hành vi an toàn làm giảm lo âu ngắn hạn nhưng duy trì lo âu dài hạn trong các mô hình CBT.",
+      "evidence_strength": "MODERATE",
+      "source_ids": [
+        "src-beck-1979"
+      ],
+      "limitations": [
+        "Nguyên lý CBT chung về safety behaviors"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-beck-1979",
+      "title": "Cognitive Therapy of Depression",
+      "authors": [
+        "Aaron T. Beck",
+        "A. John Rush",
+        "Brian F. Shaw",
+        "Gary Emery"
+      ],
+      "year": 1979,
+      "source_type": "TEXTBOOK",
+      "publisher": "Guilford Press"
+    }
+  ],
+  "status": "VERIFIED",
+  "version": "1.0.0",
+  "last_reviewed": "2026-09-15"
+}

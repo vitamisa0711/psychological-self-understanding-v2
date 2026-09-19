@@ -1,0 +1,103 @@
+{
+  "concept_id": "attachment-related-patterns",
+  "name_vi": "Các kiểu mẫu liên quan đến gắn bó",
+  "name_en": "Attachment-related Patterns",
+  "domain": "interpersonal",
+  "subcategory": "attachment",
+  "definition": "Các khuynh hướng cảm xúc và hành vi trong quan hệ gần gũi, liên quan đến cách cá nhân tìm kiếm sự an toàn và đáp ứng với khoảng cách hoặc đe dọa mất kết nối.",
+  "mechanism": [
+    "Mô hình làm việc nội tâm về bản thân và người khác",
+    "Chiến lược tìm kiếm gần gũi hoặc duy trì khoảng cách khi stress"
+  ],
+  "common_triggers": [
+    "Xa cách",
+    "Xung đột",
+    "Dấu hiệu không sẵn sàng của đối phương"
+  ],
+  "associated_thoughts": [
+    "Họ sẽ ở bên mình chứ?",
+    "Gần quá thì nguy hiểm"
+  ],
+  "associated_emotions": [
+    "lo âu",
+    "bất an",
+    "giận"
+  ],
+  "associated_behaviors": [
+    "Tìm gần gũi",
+    "Rút lui",
+    "Kiểm tra"
+  ],
+  "maintaining_factors": [
+    "Phản ứng của đối phương củng cố kỳ vọng"
+  ],
+  "protective_factors": [
+    "Trải nghiệm quan hệ ổn định",
+    "Nhận diện pattern"
+  ],
+  "related_concepts": [
+    "fear-of-abandonment",
+    "rejection-sensitivity",
+    "reassurance-seeking"
+  ],
+  "alternative_explanations": [
+    "Phản ứng với hành vi cụ thể của đối phương trong hiện tại",
+    "Stress hoàn cảnh không liên quan lịch sử gắn bó"
+  ],
+  "misconceptions": [
+    "Mọi khó khăn quan hệ đều do attachment style",
+    "Attachment pattern đồng nghĩa rối loạn nhân cách"
+  ],
+  "limitations": [
+    "Attachment là khung mô tả, không phải chẩn đoán",
+    "Không được suy ra childhood trauma từ hành vi hiện tại"
+  ],
+  "evidence_strength": "MODERATE",
+  "clinical_or_nonclinical": "NON_CLINICAL",
+  "when_not_to_infer": [
+    "Chỉ một xung đột quan hệ",
+    "Không có thông tin về pattern lặp lại qua thời gian",
+    "Không được mặc định nguyên nhân tuổi thơ",
+    "Không gắn nhãn rối loạn gắn bó hay rối loạn nhân cách"
+  ],
+  "evidence": [
+    {
+      "evidence_id": "ev-att-001",
+      "claim": "Lý thuyết gắn bó mô tả các khuynh hướng tìm kiếm an toàn và đáp ứng với đe dọa mất kết nối trong quan hệ gần.",
+      "evidence_strength": "MODERATE",
+      "source_ids": [
+        "src-bowlby-1969",
+        "src-mikulincer-shaver-2007"
+      ],
+      "limitations": [
+        "Khung lý thuyết rộng; đo lường người lớn đa dạng; không phải chẩn đoán"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-bowlby-1969",
+      "title": "Attachment and Loss: Volume 1. Attachment",
+      "authors": [
+        "John Bowlby"
+      ],
+      "year": 1969,
+      "source_type": "TEXTBOOK",
+      "publisher": "Basic Books"
+    },
+    {
+      "source_id": "src-mikulincer-shaver-2007",
+      "title": "Attachment in Adulthood: Structure, Dynamics, and Change",
+      "authors": [
+        "Mario Mikulincer",
+        "Phillip R. Shaver"
+      ],
+      "year": 2007,
+      "source_type": "TEXTBOOK",
+      "publisher": "Guilford Press"
+    }
+  ],
+  "status": "VERIFIED",
+  "version": "1.0.0",
+  "last_reviewed": "2026-09-15"
+}

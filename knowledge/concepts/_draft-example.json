@@ -1,0 +1,41 @@
+{
+  "concept_id": "draft-example-not-for-runtime",
+  "name_vi": "Ví dụ nháp (không đưa vào runtime)",
+  "name_en": "Draft Example (not for runtime)",
+  "domain": "test",
+  "definition": "Concept ở trạng thái DRAFT chỉ để kiểm tra loader filter.",
+  "mechanism": ["Không dùng trong production"],
+  "common_triggers": [],
+  "associated_thoughts": [],
+  "associated_emotions": [],
+  "associated_behaviors": [],
+  "maintaining_factors": [],
+  "protective_factors": [],
+  "related_concepts": [],
+  "alternative_explanations": ["N/A"],
+  "misconceptions": [],
+  "limitations": ["DRAFT only"],
+  "evidence_strength": "INSUFFICIENT",
+  "clinical_or_nonclinical": "NON_CLINICAL",
+  "when_not_to_infer": ["Không bao giờ suy luận từ concept DRAFT"],
+  "evidence": [
+    {
+      "evidence_id": "ev-draft-001",
+      "claim": "Placeholder claim for draft concept schema validity.",
+      "evidence_strength": "INSUFFICIENT",
+      "source_ids": ["src-draft-placeholder"],
+      "limitations": ["Not verified"]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-draft-placeholder",
+      "title": "Placeholder source for draft concept",
+      "year": 2020,
+      "source_type": "OTHER"
+    }
+  ],
+  "status": "DRAFT",
+  "version": "0.0.1",
+  "last_reviewed": "2026-09-15"
+}

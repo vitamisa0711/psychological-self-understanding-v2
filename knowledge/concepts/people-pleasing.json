@@ -1,0 +1,90 @@
+{
+  "concept_id": "people-pleasing",
+  "name_vi": "Xu hướng làm hài lòng người khác",
+  "name_en": "People-Pleasing",
+  "domain": "interpersonal",
+  "subcategory": "interpersonal style",
+  "definition": "Ưu tiên nhu cầu hoặc cảm xúc của người khác hơn nhu cầu của bản thân, thường để duy trì hòa khí hoặc tránh bị từ chối.",
+  "mechanism": [
+    "Sợ xung đột hoặc từ chối",
+    "Giá trị bản thân gắn với việc được chấp nhận"
+  ],
+  "common_triggers": [
+    "Yêu cầu từ người khác",
+    "Khả năng làm ai đó thất vọng"
+  ],
+  "associated_thoughts": [
+    "Nếu mình từ chối họ sẽ không thích mình"
+  ],
+  "associated_emotions": [
+    "lo âu",
+    "tội lỗi"
+  ],
+  "associated_behaviors": [
+    "Nói có khi muốn nói không",
+    "Xin lỗi quá mức",
+    "Che giấu nhu cầu"
+  ],
+  "maintaining_factors": [
+    "Được khen là dễ chịu",
+    "Tránh xung đột ngắn hạn"
+  ],
+  "protective_factors": [
+    "Kỹ năng đặt ranh giới",
+    "Tách giá trị bản thân khỏi sự chấp thuận"
+  ],
+  "related_concepts": [
+    "boundary-patterns",
+    "rejection-sensitivity",
+    "conflict-avoidance"
+  ],
+  "alternative_explanations": [
+    "Lịch sự văn hóa",
+    "Chọn ưu tiên quan hệ trong tình huống cụ thể",
+    "Đồng cảm"
+  ],
+  "misconceptions": [
+    "Tốt bụng = people-pleasing",
+    "People-pleasing = rối loạn nhân cách"
+  ],
+  "limitations": [
+    "Khái niệm phổ biến hơn là thuật ngữ nghiên cứu hẹp; cần mô tả hành vi cụ thể"
+  ],
+  "evidence_strength": "LIMITED",
+  "clinical_or_nonclinical": "NON_CLINICAL",
+  "when_not_to_infer": [
+    "Hành vi lịch sự hoặc hợp tác một lần",
+    "Bối cảnh văn hóa coi trọng hòa hợp",
+    "Thiếu pattern và chi phí cá nhân rõ",
+    "Không suy ra rối loạn nhân cách"
+  ],
+  "evidence": [
+    {
+      "evidence_id": "ev-pp-001",
+      "claim": "Xu hướng ưu tiên sự chấp thuận của người khác có thể liên quan đến sợ từ chối và khó đặt ranh giới trong các mô tả lâm sàng về quan hệ.",
+      "evidence_strength": "LIMITED",
+      "source_ids": [
+        "src-downey-feldman-1996"
+      ],
+      "limitations": [
+        "Suy ra gián tiếp từ rejection sensitivity; không phải cấu trúc đo lường thống nhất tên people-pleasing"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-downey-feldman-1996",
+      "title": "Implications of Rejection Sensitivity for Intimate Relationships",
+      "authors": [
+        "Geraldine Downey",
+        "Scott I. Feldman"
+      ],
+      "year": 1996,
+      "source_type": "PEER_REVIEWED",
+      "journal": "Journal of Personality and Social Psychology"
+    }
+  ],
+  "status": "VERIFIED",
+  "version": "1.0.0",
+  "last_reviewed": "2026-09-15"
+}

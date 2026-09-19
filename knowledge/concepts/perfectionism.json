@@ -1,0 +1,96 @@
+{
+  "concept_id": "perfectionism",
+  "name_vi": "Chủ nghĩa hoàn hảo",
+  "name_en": "Perfectionism",
+  "domain": "cognition",
+  "subcategory": "standards and self-evaluation",
+  "definition": "Đặt tiêu chuẩn cá nhân rất cao kèm theo đánh giá bản thân mang tính phê phán khi không đạt tiêu chuẩn đó.",
+  "mechanism": [
+    "Tiêu chuẩn cao kết hợp tự phê bình",
+    "Sợ sai sót",
+    "Tập trung vào thiếu sót hơn tiến bộ"
+  ],
+  "common_triggers": [
+    "Đánh giá công việc/học tập",
+    "Phản hồi từ người khác",
+    "So sánh với người khác"
+  ],
+  "associated_thoughts": [
+    "Nếu không hoàn hảo thì thất bại",
+    "Sai sót nhỏ làm mất giá trị"
+  ],
+  "associated_emotions": [
+    "lo âu",
+    "xấu hổ",
+    "thất vọng"
+  ],
+  "associated_behaviors": [
+    "Trì hoãn",
+    "Làm lại nhiều lần",
+    "Tránh thử thách"
+  ],
+  "maintaining_factors": [
+    "Thành công ngắn hạn từ nỗ lực quá mức",
+    "Xác nhận xã hội cho thành tích"
+  ],
+  "protective_factors": [
+    "Tiêu chuẩn linh hoạt",
+    "Tự từ bi",
+    "Tách giá trị bản thân khỏi thành tích"
+  ],
+  "related_concepts": [
+    "self-criticism",
+    "social-comparison",
+    "avoidance"
+  ],
+  "alternative_explanations": [
+    "Yêu cầu nghề nghiệp khách quan cao",
+    "Động lực thành tích lành mạnh"
+  ],
+  "misconceptions": [
+    "Muốn làm tốt = perfectionism bệnh lý",
+    "Perfectionism là chẩn đoán"
+  ],
+  "limitations": [
+    "Có nhiều khía cạnh (tự hướng tới, hướng tới người khác, xã hội áp đặt); không phải lúc nào cũng gây hại"
+  ],
+  "evidence_strength": "MODERATE",
+  "clinical_or_nonclinical": "NON_CLINICAL",
+  "when_not_to_infer": [
+    "Chỉ có tiêu chuẩn cao mà không có tự phê bình cứng nhắc",
+    "Thiếu thông tin về ảnh hưởng chức năng",
+    "Bối cảnh nghề nghiệp đòi hỏi độ chính xác cao",
+    "Không đồng nhất với rối loạn tâm thần"
+  ],
+  "evidence": [
+    {
+      "evidence_id": "ev-perf-001",
+      "claim": "Perfectionism có thể được mô tả theo nhiều chiều (ví dụ concern over mistakes, personal standards).",
+      "evidence_strength": "MODERATE",
+      "source_ids": [
+        "src-frost-1990"
+      ],
+      "limitations": [
+        "Thang đo tự báo cáo; không phải công cụ chẩn đoán"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-frost-1990",
+      "title": "The dimensions of perfectionism",
+      "authors": [
+        "Randy O. Frost",
+        "Patricia Marten",
+        "Cathleen Lahart",
+        "Robin Rosenblate"
+      ],
+      "year": 1990,
+      "source_type": "PEER_REVIEWED",
+      "journal": "Cognitive Therapy and Research"
+    }
+  ],
+  "status": "VERIFIED",
+  "version": "1.0.0",
+  "last_reviewed": "2026-09-15"
+}

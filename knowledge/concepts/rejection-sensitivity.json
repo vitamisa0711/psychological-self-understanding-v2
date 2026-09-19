@@ -1,0 +1,85 @@
+{
+  "concept_id": "rejection-sensitivity",
+  "name_vi": "Nhạy cảm với sự từ chối",
+  "name_en": "Rejection Sensitivity",
+  "domain": "interpersonal",
+  "subcategory": "social cognition",
+  "definition": "Xu hướng lo âu dự đoán, sẵn sàng nhận diện, và phản ứng mạnh với khả năng bị từ chối trong các tình huống liên cá nhân.",
+  "mechanism": [
+    "Kỳ vọng bị từ chối làm tăng chú ý tới tín hiệu mơ hồ",
+    "Diễn giải tín hiệu mơ hồ theo hướng tiêu cực",
+    "Phản ứng cảm xúc và hành vi có thể làm tăng khoảng cách quan hệ"
+  ],
+  "common_triggers": [
+    "Không nhận được phản hồi tin nhắn trong thời gian mong đợi",
+    "Bị hủy kế hoạch",
+    "Phản hồi trung tính hoặc ngắn gọn từ người quan trọng"
+  ],
+  "associated_thoughts": [
+    "Họ không quan tâm đến mình",
+    "Mình đã làm gì sai",
+    "Họ sẽ bỏ mình"
+  ],
+  "associated_emotions": ["lo âu", "buồn", "tức giận", "xấu hổ"],
+  "associated_behaviors": [
+    "Kiểm tra điện thoại lặp lại",
+    "Rút lui hoặc tấn công phòng vệ",
+    "Tìm kiếm sự trấn an"
+  ],
+  "maintaining_factors": [
+    "Tìm kiếm trấn an ngắn hạn làm giảm lo âu tạm thời nhưng củng cố lo âu dài hạn",
+    "Tránh tình huống có nguy cơ từ chối"
+  ],
+  "protective_factors": [
+    "Nhận diện diễn giải thay vì coi là sự thật",
+    "Quan hệ ổn định và rõ ràng",
+    "Kỹ năng điều hòa cảm xúc"
+  ],
+  "related_concepts": ["reassurance-seeking", "fear-of-abandonment", "interpersonal-sensitivity"],
+  "alternative_explanations": [
+    "Người kia đang bận hoặc có hoàn cảnh riêng",
+    "Kỳ vọng phản hồi không được thỏa thuận rõ",
+    "Stress hiện tại làm tăng nhạy cảm tạm thời"
+  ],
+  "misconceptions": [
+    "Một lần không được trả lời tin nhắn đồng nghĩa với rejection sensitivity",
+    "Nhạy cảm với từ chối là rối loạn nhân cách"
+  ],
+  "limitations": [
+    "Hầu hết bằng chứng mang tính tương quan, không chứng minh nhân quả đơn giản",
+    "Không phải mọi phản ứng với từ chối đều là pattern ổn định"
+  ],
+  "evidence_strength": "MODERATE",
+  "clinical_or_nonclinical": "NON_CLINICAL",
+  "when_not_to_infer": [
+    "Chỉ có một sự kiện đơn lẻ không đủ để suy ra pattern",
+    "Thiếu thông tin về tần suất, thời gian và mức độ ảnh hưởng chức năng",
+    "Có giải thích tình huống hợp lý khác (bận, hiểu lầm, kỳ vọng khác nhau)",
+    "Không được đồng nhất với rối loạn nhân cách hay chẩn đoán lâm sàng"
+  ],
+  "evidence": [
+    {
+      "evidence_id": "ev-rs-001",
+      "claim": "Rejection sensitivity được mô tả như khuynh hướng lo âu dự đoán và phản ứng mạnh với khả năng bị từ chối trong quan hệ liên cá nhân.",
+      "evidence_strength": "MODERATE",
+      "source_ids": ["src-downey-feldman-1996"],
+      "limitations": [
+        "Chủ yếu nghiên cứu tương quan và tự báo cáo",
+        "Không suy ra chẩn đoán từ điểm số cao"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-downey-feldman-1996",
+      "title": "Implications of Rejection Sensitivity for Intimate Relationships",
+      "authors": ["Geraldine Downey", "Scott I. Feldman"],
+      "year": 1996,
+      "source_type": "PEER_REVIEWED",
+      "journal": "Journal of Personality and Social Psychology"
+    }
+  ],
+  "status": "VERIFIED",
+  "version": "1.0.0",
+  "last_reviewed": "2026-09-15"
+}

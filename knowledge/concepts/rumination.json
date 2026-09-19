@@ -1,0 +1,93 @@
+{
+  "concept_id": "rumination",
+  "name_vi": "Suy tư lặp lại tiêu cực",
+  "name_en": "Rumination",
+  "domain": "cognition",
+  "subcategory": "repetitive negative thinking",
+  "definition": "Xu hướng suy nghĩ lặp đi lặp lại về nguyên nhân, ý nghĩa và hậu quả của cảm xúc tiêu cực hoặc sự kiện khó chịu, thường không dẫn tới giải pháp.",
+  "mechanism": [
+    "Tập trung vào triệu chứng và ý nghĩa tiêu cực",
+    "Làm kéo dài trạng thái cảm xúc khó chịu",
+    "Giảm hành vi giải quyết vấn đề"
+  ],
+  "common_triggers": [
+    "Sự kiện thất bại",
+    "Xung đột quan hệ",
+    "Cảm giác buồn hoặc lo"
+  ],
+  "associated_thoughts": [
+    "Tại sao mình lại như vậy?",
+    "Chuyện này nghĩa là gì về bản thân mình?"
+  ],
+  "associated_emotions": [
+    "buồn",
+    "lo âu",
+    "bất lực"
+  ],
+  "associated_behaviors": [
+    "Ngồi suy nghĩ lâu",
+    "Tránh hành động cụ thể",
+    "Kể lại sự kiện lặp lại"
+  ],
+  "maintaining_factors": [
+    "Tin rằng suy nghĩ sẽ giúp hiểu rõ hơn",
+    "Thiếu chuyển sang giải quyết vấn đề"
+  ],
+  "protective_factors": [
+    "Chuyển sang hành động cụ thể",
+    "Chú ý hiện tại",
+    "Hỗ trợ xã hội"
+  ],
+  "related_concepts": [
+    "self-criticism",
+    "cognitive-distortions",
+    "emotion-regulation"
+  ],
+  "alternative_explanations": [
+    "Suy nghĩ có chủ đích để giải quyết vấn đề",
+    "Phản ứng tạm thời sau sự kiện lớn"
+  ],
+  "misconceptions": [
+    "Mọi suy nghĩ về vấn đề đều là rumination",
+    "Rumination đồng nghĩa trầm cảm"
+  ],
+  "limitations": [
+    "Bằng chứng mạnh về liên quan với kéo dài cảm xúc tiêu cực nhưng không phải mọi trường hợp đều bệnh lý"
+  ],
+  "evidence_strength": "STRONG",
+  "clinical_or_nonclinical": "MIXED",
+  "when_not_to_infer": [
+    "Chỉ suy nghĩ ngắn về một sự kiện",
+    "Đang chủ động giải quyết vấn đề",
+    "Không có thông tin về thời gian và mức độ ảnh hưởng chức năng",
+    "Không được đồng nhất với chẩn đoán trầm cảm"
+  ],
+  "evidence": [
+    {
+      "evidence_id": "ev-rum-001",
+      "claim": "Rumination response style liên quan đến việc kéo dài các giai đoạn cảm xúc tiêu cực.",
+      "evidence_strength": "STRONG",
+      "source_ids": [
+        "src-nolen-hoeksema-1991"
+      ],
+      "limitations": [
+        "Chủ yếu tự báo cáo; không đồng nhất với chẩn đoán"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-nolen-hoeksema-1991",
+      "title": "Responses to depression and their effects on the duration of depressive episodes",
+      "authors": [
+        "Susan Nolen-Hoeksema"
+      ],
+      "year": 1991,
+      "source_type": "PEER_REVIEWED",
+      "journal": "Journal of Abnormal Psychology"
+    }
+  ],
+  "status": "VERIFIED",
+  "version": "1.0.0",
+  "last_reviewed": "2026-09-15"
+}

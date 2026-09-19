@@ -1,0 +1,92 @@
+{
+  "concept_id": "conflict-avoidance",
+  "name_vi": "Né tránh xung đột",
+  "name_en": "Conflict Avoidance",
+  "domain": "interpersonal",
+  "subcategory": "conflict",
+  "definition": "Xu hướng tránh bày tỏ bất đồng hoặc đối diện vấn đề trong quan hệ để giảm căng thẳng ngắn hạn.",
+  "mechanism": [
+    "Giảm khó chịu tức thì",
+    "Vấn đề không được giải quyết có thể tích tụ"
+  ],
+  "common_triggers": [
+    "Chủ đề nhạy cảm",
+    "Sợ làm tổn thương",
+    "Sợ bị từ chối"
+  ],
+  "associated_thoughts": [
+    "Nói ra sẽ làm hỏng quan hệ"
+  ],
+  "associated_emotions": [
+    "lo âu",
+    "tức giận dồn nén"
+  ],
+  "associated_behaviors": [
+    "Im lặng",
+    "Đổi chủ đề",
+    "Đồng ý bề ngoài"
+  ],
+  "maintaining_factors": [
+    "Hòa khí tạm thời",
+    "Thiếu kỹ năng đàm phán"
+  ],
+  "protective_factors": [
+    "Kỹ năng giao tiếp không tấn công",
+    "Thời điểm phù hợp"
+  ],
+  "related_concepts": [
+    "avoidance",
+    "people-pleasing",
+    "emotion-regulation"
+  ],
+  "alternative_explanations": [
+    "Chọn thời điểm",
+    "Xung đột không đáng",
+    "An toàn cá nhân"
+  ],
+  "misconceptions": [
+    "Im lặng luôn là avoidance độc hại"
+  ],
+  "limitations": [
+    "Tùy ngữ cảnh; đôi khi trì hoãn xung đột là khôn ngoan"
+  ],
+  "evidence_strength": "LIMITED",
+  "clinical_or_nonclinical": "NON_CLINICAL",
+  "when_not_to_infer": [
+    "Chọn không tranh cãi một lần",
+    "Ưu tiên an toàn",
+    "Thiếu pattern",
+    "Không suy ra rối loạn"
+  ],
+  "evidence": [
+    {
+      "evidence_id": "ev-ca-001",
+      "claim": "Né tránh như chiến lược đối phó có thể giảm khó chịu ngắn hạn nhưng duy trì vấn đề chưa giải quyết trong khung CBT.",
+      "evidence_strength": "LIMITED",
+      "source_ids": [
+        "src-beck-1979"
+      ],
+      "limitations": [
+        "Nguyên lý chung"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-beck-1979",
+      "title": "Cognitive Therapy of Depression",
+      "authors": [
+        "Aaron T. Beck",
+        "A. John Rush",
+        "Brian F. Shaw",
+        "Gary Emery"
+      ],
+      "year": 1979,
+      "source_type": "TEXTBOOK",
+      "publisher": "Guilford Press"
+    }
+  ],
+  "status": "VERIFIED",
+  "version": "1.0.0",
+  "last_reviewed": "2026-09-15"
+}

@@ -1,0 +1,89 @@
+{
+  "concept_id": "self-esteem",
+  "name_vi": "Lòng tự trọng / đánh giá bản thân",
+  "name_en": "Self-Esteem",
+  "domain": "self",
+  "subcategory": "self-evaluation",
+  "definition": "Mức độ đánh giá tổng quát của cá nhân về giá trị bản thân.",
+  "mechanism": [
+    "Đánh giá bản thân dựa trên thành tích, quan hệ, hoặc tiêu chuẩn nội tại",
+    "Phản hồi xã hội ảnh hưởng đánh giá"
+  ],
+  "common_triggers": [
+    "So sánh xã hội",
+    "Thành công/thất bại",
+    "Phản hồi từ người quan trọng"
+  ],
+  "associated_thoughts": [
+    "Mình có giá trị / không có giá trị"
+  ],
+  "associated_emotions": [
+    "tự tin",
+    "xấu hổ",
+    "buồn"
+  ],
+  "associated_behaviors": [
+    "Theo đuổi xác nhận",
+    "Tránh rủi ro bị đánh giá"
+  ],
+  "maintaining_factors": [
+    "Phụ thuộc thành tích bên ngoài",
+    "So sánh upward liên tục"
+  ],
+  "protective_factors": [
+    "Giá trị đa chiều",
+    "Quan hệ hỗ trợ",
+    "Kỹ năng"
+  ],
+  "related_concepts": [
+    "social-comparison",
+    "self-criticism",
+    "perfectionism"
+  ],
+  "alternative_explanations": [
+    "Khiêm tốn văn hóa",
+    "Đánh giá tình huống cụ thể không phải toàn cục"
+  ],
+  "misconceptions": [
+    "Self-esteem thấp = rối loạn",
+    "Self-esteem cao luôn lành mạnh"
+  ],
+  "limitations": [
+    "Khái niệm rộng, đo lường đa dạng; không phải chẩn đoán"
+  ],
+  "evidence_strength": "MODERATE",
+  "clinical_or_nonclinical": "NON_CLINICAL",
+  "when_not_to_infer": [
+    "Một lúc tự ti sau thất bại",
+    "Thiếu dữ liệu về pattern ổn định",
+    "Không suy ra rối loạn nhân cách hay trầm cảm"
+  ],
+  "evidence": [
+    {
+      "evidence_id": "ev-se-001",
+      "claim": "Self-esteem phản ánh đánh giá tổng quát về giá trị bản thân và chịu ảnh hưởng bởi phản hồi xã hội và thành tích.",
+      "evidence_strength": "MODERATE",
+      "source_ids": [
+        "src-festinger-1954"
+      ],
+      "limitations": [
+        "Nguồn liên quan gián tiếp qua so sánh xã hội; khái niệm self-esteem có nhiều mô hình"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-festinger-1954",
+      "title": "A theory of social comparison processes",
+      "authors": [
+        "Leon Festinger"
+      ],
+      "year": 1954,
+      "source_type": "PEER_REVIEWED",
+      "journal": "Human Relations"
+    }
+  ],
+  "status": "VERIFIED",
+  "version": "1.0.0",
+  "last_reviewed": "2026-09-15"
+}
